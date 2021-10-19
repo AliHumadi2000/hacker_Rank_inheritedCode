@@ -1,0 +1,1 @@
+# hacker_Rank_inheritedCode
